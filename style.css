@@ -1,0 +1,213 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	text-align: center;
+	float: left;
+	font-size: 30px;
+	color:#56F020;
+	background-color: black;
+	background-size:100%;
+	font-family:arial;
+	}
+	
+	a{
+		font-size:24px;
+		color:white;
+		font-family: arial;
+		width:200px;
+		height:50px;
+		background-color:#56F020;
+		display:inline-block;
+		text-decoration: none;
+		padding-top: 10px;
+		padding-bottom:20px
+	}
+	a:hover{
+		font-size:24px;
+		color:white;
+		font-family: arial;
+		width:200px;
+		height:50px;
+		background-color:black;
+		display:inline-block;
+		text-decoration: none;
+		padding-top: 10px;
+		padding-bottom:20px
+	}
+	
+	h1{
+		text-align: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin:auto;
+		background-position:100%;
+		font-size:80px;	
+		color:#56F020;
+		font-family:arial;
+}
+
+	h2{
+		text-align: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin:auto;
+		background-position:100%;
+		font-size:36px;	
+}
+p class{
+	border: solid;
+	font-size:36px;	
+}
+
+.about-me-div{
+	width:70%; 
+	text-align:justify; 
+	margin:auto;
+	border:10px;
+}
+	
+ .footer{
+	width:100%;
+	background-color:black;
+	padding: 5px;
+	font-size:50%;
+	color:black;
+}
+
+.home-page-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+.qualifications-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+
+.book-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+
+p style{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color:#56F020;
+	background-repeat:no-repeat;
+	background-size:100%;
+	font-family:Arial;
+}
+@media (max-width:1024px){
+	*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	text-align: center;
+	float: left;
+	font-size: 30px;
+	color:#56F020;
+	background-color: black;
+	background-size:100%;
+	font-family:arial;
+	}
+	
+	a{
+		font-size:18px;
+		color:white;
+		font-family: arial;
+		width:200px;
+		height:50px;
+		background-color:#56F020;
+		display:inline-block;
+		text-decoration: none;
+		padding-top: 10px;
+		padding-bottom:20px
+	}
+	a:hover{
+		font-size:18px;
+		color:white;
+		font-family: arial;
+		width:200px;
+		height:50px;
+		background-color:black;
+		display:inline-block;
+		text-decoration: none;
+		padding-top: 10px;
+		padding-bottom:20px
+	}
+	
+	h1{
+		text-align: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin:auto;
+		background-position:100%;
+		font-size:80px;	
+		color:#56F020;
+		font-family:arial;
+}
+
+	h2{
+		text-align: center;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		margin:auto;
+		background-position:100%;
+		font-size:36px;	
+}
+p class{
+	border: solid;
+	font-size:36px;	
+}
+
+.about-me-div{
+	width:70%; 
+	text-align:justify; 
+	margin:auto;
+	border:10px;
+}
+	
+ .footer{
+	width:100%;
+	background-color:black;
+	padding: 5px;
+	font-size:50%;
+	color:black;
+}
+
+.home-page-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+.qualifications-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+
+.book-image{
+	width:100%;
+	height:600px;
+	border:5px solid #56F020;
+}
+
+p style{
+	text-align: center;
+	float: left;
+	font-size: 25px;
+	color:#2FD34C;
+	background-repeat:no-repeat;
+	background-size:100%;
+	font-family:Arial;
+}
